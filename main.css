@@ -1,0 +1,10 @@
+.selector-for-some-widget {
+    box-sizing: content-box;
+  }
+.container{
+    display:grid;
+}
+.pw-check{
+  display: flex;
+}
+
